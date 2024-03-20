@@ -1,0 +1,14 @@
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\SAP\obj\Debug\net8.0\SAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\SAP\obj\Debug\net8.0\SAP.AssemblyInfoInputs.cache
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\SAP\obj\Debug\net8.0\SAP.AssemblyInfo.cs
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\SAP\obj\Debug\net8.0\SAP.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\SAP\bin\Debug\net8.0\SAP.exe
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\SAP\bin\Debug\net8.0\SAP.deps.json
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\SAP\bin\Debug\net8.0\SAP.runtimeconfig.json
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\SAP\bin\Debug\net8.0\SAP.dll
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\SAP\bin\Debug\net8.0\SAP.pdb
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\SAP\obj\Debug\net8.0\SAP.dll
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\SAP\obj\Debug\net8.0\refint\SAP.dll
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\SAP\obj\Debug\net8.0\SAP.pdb
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\SAP\obj\Debug\net8.0\SAP.genruntimeconfig.cache
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\SAP\obj\Debug\net8.0\ref\SAP.dll

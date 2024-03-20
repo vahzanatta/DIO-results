@@ -1,0 +1,14 @@
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.exe
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.deps.json
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.runtimeconfig.json
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.dll
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.pdb
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.AssemblyInfoInputs.cache
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.AssemblyInfo.cs
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.dll
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\ProjetoAulas\obj\Debug\net8.0\refint\ProjetoAulas.dll
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.pdb
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.genruntimeconfig.cache
+C:\Users\Vanessa\Desktop\Desenvolvedor IO\Curso\ProjetoAulas\obj\Debug\net8.0\ref\ProjetoAulas.dll
